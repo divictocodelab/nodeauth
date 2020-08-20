@@ -10,7 +10,7 @@
     "@hapi/joi": "^15.1.0",
     "babel-polyfill": "^6.26.0",
     "babel-register": "^6.26.0",
-    "bcrypt": "^3.0.5",
+    "bcrypt": "^5.0.0",
     "body-parser": "^1.18.3",
     "cluster": "^0.7.7",
     "commander": "^2.20.0",
